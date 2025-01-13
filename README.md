@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Gia Huy</h1>
 <h3 align="center">🔭 I am pursuing a degree in Software Engineering at FPT University, where I am gaining valuable skills and knowledge to succeed in the tech industry.</h3>
 
-- 🌱 I’m currently working on **React/Node/Java**
+- 🌱 I’m currently working with **React/Node/Java**
 
 - 📫 How to reach me **nguyenhuy3112005@gmail.com**
 
