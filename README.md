@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,javascript,typescript,bootstrap,mongodb,mysql&theme=light" alt="Tech Stack Icons" />
 </p>
-:contentReference[oaicite:1]{index=1}
+
 
 ---
 
