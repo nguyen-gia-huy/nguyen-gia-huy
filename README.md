@@ -37,11 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nguyen-gia-huy&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-gia-huy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-:contentReference[oaicite:2]{index=2}
 
-> **Lưu ý:** Thẻ "Top Languages" sẽ tự động hiển thị các ngôn ngữ bạn dùng nhiều nhất trên GitHub theo số lượng dòng code trong các repo công khai :contentReference[oaicite:3]{index=3}.
-
----
 
 ###  ​ Contribution Snake Game
 <p align="center">
@@ -52,5 +48,5 @@
 
 ###  Fun Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-gia-huy&theme=radical" alt="GitHub Streak" />
 </p>
