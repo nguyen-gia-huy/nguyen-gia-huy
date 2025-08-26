@@ -1,6 +1,13 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00BFFF;">Nguyen Gia Huy</span>
+  Hi 👋, I'm <span style="color:#00BFFF;"><!--Tạo điểm nhấn cho tên bạn-->Nguyen Gia Huy</span>
 </h1>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;React+%7C+Node.js+%7C+Java"
+     target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;React+%7C+Node.js+%7C+Java&size=24&pause=2000" alt="Typing Animation"/>
+  </a>
+</p>
 
 <h3 align="center">
   🔭 Software Engineering student at FPT University  
@@ -9,33 +16,41 @@
 
 ---
 
-### 🌱 About Me
+###  ​ About Me
 - 🎓 Currently pursuing a degree in **Software Engineering**  
-- 🌍 Exploring **Fullstack Development (MERN + Java)**  
-- ✉️ Reach me at: **nguyenhuy3112005@gmail.com**  
+-  Exploring **Full-stack Development** with React, Node.js, Java  
+-  Reach me at: **nguyenhuy3112005@gmail.com**  
 
 ---
 
-### 🛠️ Languages & Tools
+###  ​​ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,js,ts,mongodb,mysql,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,javascript,typescript,bootstrap,mongodb,mysql&theme=light" alt="Tech Stack Icons" />
+</p>
+:contentReference[oaicite:1]{index=1}
+
+---
+
+###  ​ GitHub Stats
+<p align="center">
+  <!-- Thay YOUR_USERNAME bằng tên GitHub của bạn -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+:contentReference[oaicite:2]{index=2}
+
+> **Lưu ý:** Thẻ "Top Languages" sẽ tự động hiển thị các ngôn ngữ bạn dùng nhiều nhất trên GitHub theo số lượng dòng code trong các repo công khai :contentReference[oaicite:3]{index=3}.
+
+---
+
+###  ​ Contribution Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats
+###  Fun Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huynguyen&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynguyen&layout=compact&theme=radical" alt="langs" height="180"/>
-</p>
-
----
-
-### 🌟 Fun Animation
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynguyen&theme=radical" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 </p>
