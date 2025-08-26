@@ -34,8 +34,8 @@
 ###  ​ GitHub Stats
 <p align="center">
   <!-- Thay YOUR_USERNAME bằng tên GitHub của bạn -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyen-gia-huy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-gia-huy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 :contentReference[oaicite:2]{index=2}
 
