@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm Nguyen Gia Huy</h1>
-<h3 align="center">🔭 I am pursuing a degree in Software Engineering at FPT University, where I am gaining valuable skills and knowledge to succeed in the tech industry.</h3>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00BFFF;">Nguyen Gia Huy</span>
+</h1>
 
-- 🌱 I’m currently working with **React/Node/Java**
+<h3 align="center">
+  🔭 Software Engineering student at FPT University  
+  💡 Passionate about Web Development (React | Node.js | Java)
+</h3>
 
-- 📫 How to reach me **nguyenhuy3112005@gmail.com**
+---
 
+### 🌱 About Me
+- 🎓 Currently pursuing a degree in **Software Engineering**  
+- 🌍 Exploring **Fullstack Development (MERN + Java)**  
+- ✉️ Reach me at: **nguyenhuy3112005@gmail.com**  
 
-<p align="left">
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,js,ts,mongodb,mysql,bootstrap" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huynguyen&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huynguyen&layout=compact&theme=radical" alt="langs" height="180"/>
+</p>
+
+---
+
+### 🌟 Fun Animation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huynguyen&theme=radical" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
