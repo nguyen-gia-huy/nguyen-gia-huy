@@ -31,12 +31,6 @@
 
 ---
 
-###  ​ GitHub Stats
-<p align="center">
-  <!-- Thay YOUR_USERNAME bằng tên GitHub của bạn -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyen-gia-huy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen-gia-huy&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 
 ###  ​ Contribution Snake Game
@@ -46,8 +40,4 @@
 
 ---
 
-### 🌟 Fun Animation
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyen-gia-huy&theme=radical" alt="streak"/>
-</p>
 
